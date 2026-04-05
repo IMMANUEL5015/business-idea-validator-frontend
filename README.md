@@ -23,4 +23,4 @@ for ideas that are market worthy.
 6. Your app should be running successfully. Visit the URL specified in your terminal logs.
 
 ## Helpful Links
-* Frontend URL - 
+* Frontend URL - https://business-idea-validator-frontend.vercel.app/login
