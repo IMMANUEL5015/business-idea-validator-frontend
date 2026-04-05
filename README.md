@@ -25,6 +25,6 @@ for ideas that are market worthy.
 6. Your app should be running successfully. Visit the URL specified in your terminal logs.
 
 ## Helpful Links
-* Frontend App URL - https://business-idea-validator-frontend.vercel.app/login
+* Frontend App URL - https://business-idea-validator-frontend.vercel.app/
 * Webflow Landing Page URL - https://idealaunch-f83d2f.webflow.io/
 * Weglot Version Of The Landing Page - https://subdir-98b92af0bd.preview.weglot.io/
