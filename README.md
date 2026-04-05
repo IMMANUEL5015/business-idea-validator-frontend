@@ -14,6 +14,8 @@ for ideas that are market worthy.
 * Zustand - State Management.
 * Bootstrap - CSS Library For Styling.
 * Vercel - Deployment.
+* Webflow - Building Landing Page Seperately From The App.
+* Weglot API - In Combination With Webflow For Multilingual Translation Into Italian
 
 ## How To Setup And Run The Project On Your Local Machine
 1. Clone the project from GITHUB using the **git clone --url** command.
@@ -23,4 +25,6 @@ for ideas that are market worthy.
 6. Your app should be running successfully. Visit the URL specified in your terminal logs.
 
 ## Helpful Links
-* Frontend URL - https://business-idea-validator-frontend.vercel.app/login
+* Frontend App URL - https://business-idea-validator-frontend.vercel.app/login
+* Webflow Landing Page URL - https://idealaunch-f83d2f.webflow.io/
+* Weglot Version Of The Landing Page - https://subdir-98b92af0bd.preview.weglot.io/
