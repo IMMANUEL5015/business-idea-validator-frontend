@@ -23,6 +23,7 @@ for ideas that are market worthy.
 3. Run the command: **npm install** to install the project dependencies.
 5. Open up your terminal and run the command: **npm run dev**.
 6. Your app should be running successfully. Visit the URL specified in your terminal logs.
+7. The URL should be http://localhost:5173
 
 ## Helpful Links
 * Frontend App URL - https://business-idea-validator-frontend.vercel.app/
